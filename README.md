@@ -17,3 +17,7 @@ python3 rmd.py -e
 ```
 
 The default editor is vim, while it is also customizable.
+
+## Screenshots
+
+![screenshot](./screenshot.png)

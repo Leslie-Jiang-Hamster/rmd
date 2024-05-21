@@ -1,5 +1,9 @@
-# This is NOT order-sensitive.
+# Recommended to keep default
+editor = 'vim'
+config_file_name = 'config.py'
 
+# Feel free to edit here
+# NOT order-sensitive.
 anniversaries = {
   '3-21': 'bd-小熊',
   '4-12': 'bd-鸡宝',
